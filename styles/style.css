@@ -42,12 +42,12 @@ footer{
 }
 #img1{
     background-image: url('../imagens/background001.jpg');
-    background-position: center right;
+    background-position: right center;
     background-attachment: fixed;
 }
 #img2{
     background-image: url('../imagens/background002.jpg');
-    background-position: center right;
+    background-position: right center;
     background-attachment: fixed;
 }
 .imagem > p {
